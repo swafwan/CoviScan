@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39590138642",
+    "project_id": "coviscan-3fd69",
+    "storage_bucket": "coviscan-3fd69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39590138642:android:33103c1b9c22fb59f699cb",
+        "android_client_info": {
+          "package_name": "com.marabhootams.covi_scan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39590138642-eqvrq86ir35svktdssv76pd1p1192l5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnj15ujX1vkmFudqfWltSjw5EDOhRmBMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39590138642-eqvrq86ir35svktdssv76pd1p1192l5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
