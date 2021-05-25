@@ -4,7 +4,7 @@
  1) For customer - Scan and record their footprint
  2) For merchant - Scan and Generate QR for recording customers footprint
 
-## CoviScan DEVELOPERS
+## CoviScan Developers
   1. Abdul Rahman(https://github.com/abdu0011)
   2. Ayiesha Khubra(https://github.com/ayiesha001)
 
@@ -27,7 +27,7 @@
  
     
 ## How to configure
-  Setting up and configuring this project is pretty easy. You just have to clone this repository and update the plugins using the terminal and you are good to go. As this project does not use firebase at the moment, you can neglect setting up your firebase server.
+  Setting up and configuring this project is pretty easy. You just have to clone this repository and update the plugins using the terminal and you are good to go. As this project does not use firebase at the moment, you can skip setting it.
   
 ## How to Run CoviScan
    You may download the apk file from the link and install it on your device
