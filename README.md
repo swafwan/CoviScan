@@ -13,13 +13,14 @@
   
 ## CoviScan walkthrough
 ![vlcsnap-2021-05-26-15h21m24s095](https://user-images.githubusercontent.com/84282000/119640409-33b5dc80-be36-11eb-8edd-4c571cf81ee9.png)
- APP Promo: https://drive.google.com/file/d/1UCx3XrWOYjdox7gXQn1XXyCF-sOtS7Qf/view?usp=sharing
+ APP Promo: https://drive.google.com/file/d/1UCx3XrWOYjdox7gXQn1XXyCF-sOtS7Qf/view?usp=sharing \
+ App Walkthrough: https://drive.google.com/file/d/13y2bGoBwBhc8JtnUoRrAqpxiCh0vKJdc/view?usp=drivesdk
  
   
 ## How CoviScan Works?
   CoviScan is basically a QR scanner and generator application that works without any flaw. At the initial stage of development, we just used a basic google form survey for tracking footprints. Moving inside further, CoviScan has two UI; one is for the customer and the latter for the merchant. In this version of CoviScan, the customer can directly use the scanner without signing up whereas the merchant must register mandatorily. Registered merchants can use the generate function exclusively which is currently unavailable for the customer. "adobe_XD" plugin helped with most of the UX interface as we focused more on UI design. This being just the testing phase of the project, we are looking forward to develop and make it completely functional. Other distinctive plugins which CoviScan uses are "flutter_barcode_scanner" and "barcode_widget". The scanner initiates the former plugin and the generator initiates the latter plugin. We are planning to set up firebase for an easier experience for both customers and merchants. 
   ![image](https://user-images.githubusercontent.com/84282000/119640033-d3269f80-be35-11eb-8744-1085c8c92f38.png)
-Code walthrough: 
+Code walkthrough: 
 
 ## Libraries used
   To develop the project following libraries where used:\
