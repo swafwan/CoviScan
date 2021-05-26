@@ -1,3 +1,6 @@
+
+![68747470733a2f2f7472656c6c6f2d6174746163686d656e74732e73332e616d617a6f6e6177732e636f6d2f3534326539633633313635303464353739376166626662392f3534326539633633313635303464353739376166626663312f333964656538643939333834313](https://user-images.githubusercontent.com/84282000/119714467-8b793580-be80-11eb-9d92-ac4d82a9adb7.png)
+
 ![CoviScan](https://github.com/swafwan/CoviScan/blob/main/VERSION%201.gif)
 ## CoviScan
  CoviScan is meant to be the most advanced visitors tracking system. The main purpose of the app is to replace the conventional method of marking footprint. CoviScan is developed using flutter. Minimal and aesthetic UI was the main focus. Currently, the app is divided into two:
